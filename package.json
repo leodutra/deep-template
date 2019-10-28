@@ -1,0 +1,30 @@
+{
+  "name": "deep-template",
+  "version": "1.0.0",
+  "description": "Create \"curried\" templates from deep JS structures using ES6 template syntax",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "jest": "^24.9.0"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/leodutra/deep-template.git"
+  },
+  "keywords": [
+    "template",
+    "deep",
+    "ES6",
+    "string",
+    "curry"
+  ],
+  "author": "Leo Dutra <leodutra.br@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/leodutra/deep-template/issues"
+  },
+  "homepage": "https://github.com/leodutra/deep-template#readme"
+}
